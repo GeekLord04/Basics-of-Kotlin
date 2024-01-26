@@ -11,8 +11,6 @@ This repository serves as a beginner-friendly guide to Kotlin programming. Wheth
 - **Getting Started:** Quick setup and installation instructions.
 - **Basics:** Learn the basics of Kotlin syntax and language features.
 - **Intermediate Concepts:** Dive into more advanced topics such as functions, classes, and inheritance.
-- **Examples:** Real-world examples and scenarios to apply your Kotlin knowledge.
-- **Best Practices:** Coding guidelines and best practices to write clean and efficient Kotlin code.
 
 ## Getting Started
 
