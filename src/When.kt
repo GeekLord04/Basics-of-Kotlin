@@ -17,7 +17,7 @@ fun main() {
     }
     */
 
-    //Same thing can be achieve using when for better readibility
+    //Same thing can be achieved using "when" for better readability
 
     when(animal){
 
