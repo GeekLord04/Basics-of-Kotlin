@@ -1,4 +1,4 @@
-# Kotlin Starter Kit
+# Basics of Kotlin
 
 🚀 A comprehensive collection of Kotlin code snippets and examples to kickstart your development journey!
 
