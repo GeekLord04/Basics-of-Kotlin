@@ -22,9 +22,9 @@ fun main() {
     var car2 = Automobile("new Car",4)        //Object of secondary constructor
 
 
-//    var newPerson = NewPerson("Admin",34) //Values can't be assigned here
-//    println(newPerson.name + " ka age hai " + newPerson.age)
-//    println(newPerson.canVote)
+    var newPerson = NewPerson("Admin",34) //Values can't be assigned here
+    println(newPerson.name + " ka age hai " + newPerson.age)
+    println(newPerson.canVote)
 
 
 }
