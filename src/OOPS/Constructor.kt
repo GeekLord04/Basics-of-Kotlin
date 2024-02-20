@@ -29,7 +29,7 @@ fun main() {
 
 }
 
-internal class Automobile(val name : String, val tyres : Int, maxSeating : Int, hasAirBags : Boolean){     // () -> Primary Constructor, hasAirBags is not a property here
+class Automobile(val name : String, val tyres : Int, maxSeating : Int, hasAirBags : Boolean){     // () -> Primary Constructor, hasAirBags is not a property here
 
     /*
     The init block will execute immediately after the primary constructor.
