@@ -20,14 +20,27 @@ fun main(){
     val shapes = arrayOf(Circle(3.0), Circle(4.0), Square(2.0))
     calculateArea(shapes)
 
+    println(circle.toString())      //This will print the .toString() function from Any class
+
 }
 
 
+/*
+Method Calling Hierarchy
 
+Circle -> Shape -> Any
+
+ */
+
+//Parent class
 open class Shape{
     open fun area() : Double{
         return 0.0
     }
+
+//    override fun toString(): String {
+//        return "I'm a Parent class"
+//    }
 }
 
 class Circle(val radius : Double) : Shape(){
