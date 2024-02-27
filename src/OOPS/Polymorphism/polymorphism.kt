@@ -18,7 +18,7 @@ fun main(){
     println(square.area())      //This will not print 0.0
 
     val shapes = arrayOf(Circle(3.0), Circle(4.0), Square(2.0))
-    calculateArea(shapes);
+    calculateArea(shapes)
 
 }
 
