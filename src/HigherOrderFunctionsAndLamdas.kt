@@ -2,6 +2,7 @@ fun main(){
 
     //We can store functions in variable in Kotlin
     //This is how we can store functions in variables
+    // This operator (::) is called Function Referencing operator
     //In Kotlin, functions are considered first-class citizens, which means they can be treated just like any other variable or object
     var fn: (a: Double, b: Double) -> Double = ::sum        //Type explicitly declared
     var fn2 = ::sum
